@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  font-family: 'Arvo', serif;
+  font-weight: 400;
+}
+
+.taco-icon {
+  width: 25%;
+  height: 25%;
+  color: white;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 3.4em;
+}
+
+.footer {
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  font-family: sans-serif;
+}
